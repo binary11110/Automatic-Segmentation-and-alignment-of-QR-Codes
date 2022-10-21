@@ -26,7 +26,14 @@ Project features:
 ---------------------------
 
 Test:
--Case1: Upright shot of the QR on simple background with different distances.
--Case2: Shot of the QR with any rotation angle on simple background.
--Case3: Upright shot of the QR on complex background and different materials.
--Case4: Shot of the QR with any rotation angle on complex background and different materials.
+- Case1: Upright shot of the QR on simple background with different distances.
+- Case2: Shot of the QR with any rotation angle on simple background.
+- Case3: Upright shot of the QR on complex background and different materials.
+- Case4: Shot of the QR with any rotation angle on complex background and different materials.
+
+---------------------
+Samples:
+
+![Screenshot 2022-10-21 144420](https://user-images.githubusercontent.com/86425586/197198697-9140a2d7-1276-47ae-9f4d-ad3df01f3a45.png)
+![Screenshot 2022-10-21 144508](https://user-images.githubusercontent.com/86425586/197198801-3d54f520-af90-47bf-9761-a6d9c0247d74.png)
+
