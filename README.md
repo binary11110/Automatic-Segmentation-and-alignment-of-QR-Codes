@@ -1,4 +1,4 @@
-# Automatic Segmentation and Alignment of QR Codes
+# Automatic Segmentation and Alignment of QR Codes 🏁
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/binary11110/Automatic-Segmentation-and-alignment-of-QR-Codes">
 
 Descrption:
