@@ -2,6 +2,7 @@
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/binary11110/Automatic-Segmentation-and-alignment-of-QR-Codes">
 
 Descrption:
+
 Quick response (QR) code is a two-dimensional barcode that can hold different type of 
 information. A QR code consists of black squares arranged in a square grid on a white 
 background, which can be read by an imaging device such as a camera1. The QR code system 
